@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e0742e1-e611-4c21-88ff-a79303099b0e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2tdqWqrUKvj1VjeISArPr880EQN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EnigmaConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.uniwue.jpp.enigma.EnigmaConsole" />
+      <module name="Enigma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uniwue.jpp.enigma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EnigmaConsole" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\ayca2\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\ayca2\PABS\PP Winter 2024 2025\Enigma" />
+          <option name="myCopyRoot" value="C:\Users\ayca2\PABS\PP Winter 2024 2025\Enigma" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\ayca2\PABS\PP Winter 2024 2025\Enigma" />
+          <option name="myCopyRoot" value="C:\Users\ayca2\PABS\PP Winter 2024 2025\Enigma" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e0742e1-e611-4c21-88ff-a79303099b0e" name="Changes" comment="" />
+      <created>1740692334951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740692334951</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fixed encoder">
+      <created>1740751478846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740751478846</updated>
+    </task>
+    <task id="LOCAL-00002" summary="null kaldirdik">
+      <created>1740904185572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740904185572</updated>
+    </task>
+    <task id="LOCAL-00003" summary="null kaldirdik">
+      <created>1740904214174</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740904214174</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aaaaa">
+      <created>1741089427356</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741089427356</updated>
+    </task>
+    <task id="LOCAL-00005" summary="aaaaa">
+      <created>1741089550244</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741089550244</updated>
+    </task>
+    <task id="LOCAL-00006" summary="aaaaa">
+      <created>1741089630885</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741089630886</updated>
+    </task>
+    <task id="LOCAL-00007" summary="aaaaa">
+      <created>1741090530845</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741090530845</updated>
+    </task>
+    <task id="LOCAL-00008" summary="aaaaa">
+      <created>1741090598456</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741090598456</updated>
+    </task>
+    <task id="LOCAL-00009" summary="aaaaa">
+      <created>1741090645384</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741090645384</updated>
+    </task>
+    <task id="LOCAL-00010" summary="aaaaa">
+      <created>1741091550671</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741091550671</updated>
+    </task>
+    <task id="LOCAL-00011" summary="slm">
+      <created>1741101999423</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741101999423</updated>
+    </task>
+    <task id="LOCAL-00012" summary="slm">
+      <created>1741102372784</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1741102372784</updated>
+    </task>
+    <task id="LOCAL-00013" summary="konsol">
+      <created>1741174002238</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1741174002238</updated>
+    </task>
+    <task id="LOCAL-00014" summary="konsol">
+      <created>1741174213794</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1741174213794</updated>
+    </task>
+    <task id="LOCAL-00015" summary="konsol">
+      <created>1741174520237</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1741174520238</updated>
+    </task>
+    <task id="LOCAL-00016" summary="konsol">
+      <created>1741174762722</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1741174762722</updated>
+    </task>
+    <task id="LOCAL-00017" summary="konsol">
+      <created>1741174812253</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1741174812253</updated>
+    </task>
+    <task id="LOCAL-00018" summary="konsol">
+      <created>1741175140949</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1741175140949</updated>
+    </task>
+    <task id="LOCAL-00019" summary="konsol">
+      <created>1741175456020</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1741175456020</updated>
+    </task>
+    <task id="LOCAL-00020" summary="konsol">
+      <created>1741175627195</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1741175627195</updated>
+    </task>
+    <task id="LOCAL-00021" summary="konsol">
+      <created>1741176266225</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1741176266225</updated>
+    </task>
+    <task id="LOCAL-00022" summary="konsol">
+      <created>1741176407699</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1741176407699</updated>
+    </task>
+    <task id="LOCAL-00023" summary="konsol">
+      <created>1741176684339</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1741176684339</updated>
+    </task>
+    <task id="LOCAL-00024" summary="selam">
+      <created>1741250936515</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1741250936515</updated>
+    </task>
+    <task id="LOCAL-00025" summary="YETO">
+      <created>1741253457231</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1741253457231</updated>
+    </task>
+    <task id="LOCAL-00026" summary="YETO">
+      <created>1741253515934</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1741253515934</updated>
+    </task>
+    <task id="LOCAL-00027" summary="YETO">
+      <created>1741258217300</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1741258217300</updated>
+    </task>
+    <task id="LOCAL-00028" summary="YETO">
+      <created>1741258501825</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1741258501825</updated>
+    </task>
+    <task id="LOCAL-00029" summary="YETO">
+      <created>1741258725210</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1741258725210</updated>
+    </task>
+    <task id="LOCAL-00030" summary="YETO">
+      <created>1741259015389</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1741259015389</updated>
+    </task>
+    <task id="LOCAL-00031" summary="YETO">
+      <created>1741259325901</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1741259325901</updated>
+    </task>
+    <task id="LOCAL-00032" summary="YETO">
+      <created>1741259471620</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1741259471620</updated>
+    </task>
+    <task id="LOCAL-00033" summary="YETO">
+      <created>1741259578401</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1741259578401</updated>
+    </task>
+    <task id="LOCAL-00034" summary="YETO">
+      <created>1741259826812</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1741259826812</updated>
+    </task>
+    <task id="LOCAL-00035" summary="YETO">
+      <created>1741263582297</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1741263582297</updated>
+    </task>
+    <task id="LOCAL-00036" summary="rotation">
+      <created>1741867710135</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1741867710135</updated>
+    </task>
+    <task id="LOCAL-00037" summary="rotation">
+      <created>1741867755161</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1741867755161</updated>
+    </task>
+    <task id="LOCAL-00038" summary="dön">
+      <created>1741868325834</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1741868325834</updated>
+    </task>
+    <task id="LOCAL-00039" summary="dön26">
+      <created>1741869823629</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1741869823629</updated>
+    </task>
+    <task id="LOCAL-00040" summary="yeto">
+      <created>1743149965406</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1743149965406</updated>
+    </task>
+    <task id="LOCAL-00041" summary="yeto">
+      <created>1743150721146</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1743150721146</updated>
+    </task>
+    <task id="LOCAL-00042" summary="yeto">
+      <created>1743151193418</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1743151193418</updated>
+    </task>
+    <task id="LOCAL-00043" summary="yeto">
+      <created>1743152750592</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1743152750592</updated>
+    </task>
+    <task id="LOCAL-00044" summary="yeto">
+      <created>1743152963875</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1743152963875</updated>
+    </task>
+    <task id="LOCAL-00045" summary="yeto">
+      <created>1743153073366</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1743153073366</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed encoder" />
+    <MESSAGE value="null kaldirdik" />
+    <MESSAGE value="aaaaa" />
+    <MESSAGE value="slm" />
+    <MESSAGE value="konsol" />
+    <MESSAGE value="selam" />
+    <MESSAGE value="YETO" />
+    <MESSAGE value="rotation" />
+    <MESSAGE value="dön" />
+    <MESSAGE value="dön26" />
+    <MESSAGE value="yeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="yeto" />
+  </component>
+</project>
